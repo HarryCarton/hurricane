@@ -1,0 +1,19 @@
+{
+  "campaignCode": [
+    {
+      "id": 1,
+      "code": "BS01",
+      "description": "Beagle Street - Direct Internet"
+    },
+    {
+      "id": 2,
+      "code": "BL02",
+      "description": "Budget - Direct Internet"
+    },
+    {
+      "id": 3,
+      "code": "BLCO",
+      "description": "Budget Life Customer Ops"
+    }
+  ]
+}

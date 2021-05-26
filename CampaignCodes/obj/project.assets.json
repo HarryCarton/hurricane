@@ -5535,19 +5535,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HCarton\\.nuget\\packages\\": {}
+    "C:\\Users\\TChan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HCarton\\Documents\\CampaignCodeProject\\hurricane\\CampaignCodes\\CampaignCodes.csproj",
+      "projectUniqueName": "C:\\Users\\TChan\\Documents\\personal-projects\\hurricane\\CampaignCodes\\CampaignCodes.csproj",
       "projectName": "CampaignCodes",
-      "projectPath": "C:\\Users\\HCarton\\Documents\\CampaignCodeProject\\hurricane\\CampaignCodes\\CampaignCodes.csproj",
-      "packagesPath": "C:\\Users\\HCarton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HCarton\\Documents\\CampaignCodeProject\\hurricane\\CampaignCodes\\obj\\",
+      "projectPath": "C:\\Users\\TChan\\Documents\\personal-projects\\hurricane\\CampaignCodes\\CampaignCodes.csproj",
+      "packagesPath": "C:\\Users\\TChan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TChan\\Documents\\personal-projects\\hurricane\\CampaignCodes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HCarton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TChan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5555,8 +5555,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://beaglestreet.pkgs.visualstudio.com/_packaging/beaglestreet.external/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -5601,7 +5600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },
